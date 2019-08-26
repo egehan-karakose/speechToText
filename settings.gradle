@@ -1,0 +1,2 @@
+rootProject.name='speechToText2API21'
+include ':app'
